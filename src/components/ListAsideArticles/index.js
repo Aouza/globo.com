@@ -1,5 +1,4 @@
 import React from 'react';
-import { notices } from '../../services/api';
 
 import AsideArticles from './AsideArticles';
 

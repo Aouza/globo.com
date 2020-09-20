@@ -6,7 +6,7 @@ const BoxNotices = ({image, title, description, hasImage}) => {
     return(
 
         <Container hasImage={hasImage}>
-            <a href="#">
+            <a href="!#">
                 <img src={ image } alt="Thumb notice"/>
                 <h2>{ title }</h2>
                 <p>{ description }</p>

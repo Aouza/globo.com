@@ -41,7 +41,7 @@ const Home = () => {
                 <div>
                     <h2>ASSINE O GLOBO</h2>
                     <h3>Conteúdo exclusivo em tempo real</h3>
-                    <a href="#">ACESSE AGORA</a>
+                    <a href="!#">ACESSE AGORA</a>
                 </div>
                 {signData.map(data => <CardSignBoxes image={data.image} title={data.title} />)}
                 
